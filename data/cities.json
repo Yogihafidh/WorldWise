@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,28 +25,52 @@
       "id": 98443197
     },
     {
-      "cityName": "Jakarta",
-      "country": "Indonesia",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Aougrout",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-07-20T08:37:27.834Z",
+      "notes": "yyyy",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "28.977878138845625",
+        "lng": "2.0494147744496205"
       },
-      "id": 676765465
+      "id": 98443198
     },
     {
-      "cityName": "Banjarnegara",
+      "cityName": "Kecamatan Madukara",
       "country": "Indonesia",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "emoji": "🇮🇩",
+      "date": "2024-07-20T08:45:39.476Z",
+      "notes": "Rumahku di petambakan",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "-7.373509863792439",
+        "lng": "109.69352948288763"
       },
-      "id": 8989888
+      "id": 98443199
+    },
+    {
+      "cityName": "Domodedovo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-20T08:54:39.975Z",
+      "notes": "owo",
+      "position": {
+        "lat": "55.43178288995715",
+        "lng": "37.72755925527313"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Tura",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-23T08:36:37.277Z",
+      "notes": "Dingin banget cook",
+      "position": {
+        "lat": "64.77468717199565",
+        "lng": "97.9341470050273"
+      },
+      "id": 98443201
     }
   ]
 }
