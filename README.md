@@ -19,3 +19,8 @@ WorldWise is a website where you can keep records and track all the places aroun
 - React Leaflet
 - CSS Modules
 
+# Documentation
+![screencapture-localhost-5173-2025-04-21-22_34_45](https://github.com/user-attachments/assets/85a7bbbb-9ae0-414b-b578-70e7daeb9612)
+![screencapture-localhost-5173-login-2025-04-21-22_37_54](https://github.com/user-attachments/assets/9f24ba0e-5269-4583-b91e-a02c1629add1)
+![screencapture-localhost-5173-app-cities-2025-04-21-22_50_23](https://github.com/user-attachments/assets/6a1a6877-8ae8-4daa-9c85-262390028f3d)
+![screencapture-localhost-5173-app-form-2025-04-21-22_51_18](https://github.com/user-attachments/assets/7f157db3-baea-4fef-929a-9f7845b3729f)
